@@ -1,0 +1,38 @@
+.Post_input{
+    border-radius:25px;
+    background-color: #f3f3f3;
+    text-align:left;
+    border-color: transparent;
+}
+.input{
+    display: none;
+}
+.upload{
+    height: 280px;
+    width: 100%;
+    object-fit: cover;
+}
+.uploadImage{
+    height: 270px;
+    /* width: 460px; */
+}
+.Add_text{
+    border: 0px solid;
+    background: transparent;
+    width:93%;
+    height:140px;
+    position: absolute;
+    top:55%;
+    font-size:30px;
+    color:white;
+    /* display: block;
+    margin : 0 auto; */
+}
+/* @media screen and (max-width:480px) {
+right:54px;    
+} */
+    /* @media (max-width: 480px) {  
+        .Add_text {
+        right: 54px;
+        }
+    } */

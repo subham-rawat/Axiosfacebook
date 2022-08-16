@@ -1,0 +1,10 @@
+.timeline{
+    /* color:#0077ff; */
+    border-top: 0;
+    border-right:0;
+      border-bottom: 5px;
+      border-left: 0;
+      border-style:solid;
+      border-color: lightgray;
+      text-decoration:none;
+}
